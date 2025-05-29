@@ -1,0 +1,8 @@
+0 Plastique
+1 Verre
+2 Papier/Carton
+3 Métal
+4 Déchets organiques
+5 Déchets dangereux
+6 Non recyclable
+7 Textiles
